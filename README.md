@@ -1,10 +1,4 @@
-Great 🔥 — ek strong **README.md** tumhare project ko professional bana deta hai (interview me bahut help karta hai 💯)
-
-Main tumhe **ready-to-use README file** de raha hoon 👇 (copy–paste in GitHub)
-
----
-
-# 🏥 Healthcare Claim Prediction System
+# 🏥 heart_deseas_project Prediction System
 
 ## 📌 Project Overview
 
@@ -107,45 +101,4 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
 
-Your Name
-
----
-
-## ⭐ Contribution
-
-Feel free to fork this repository and contribute!
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
-# ✅ Tumhe kya karna hai
-
-1. `Your Name` replace karo
-2. GitHub repo link update karo
-3. Screenshot add karo (optional but powerful 🔥)
-
----
-
-# 💡 Pro Tip
-
-👉 README me ye add kar do (extra impression 😎):
-
-* Live demo link (Streamlit)
-* Accuracy %
-* Dataset description
-
----
-
-Agar chaho to main:
-✅ Tumhara **GitHub repo professionally setup** kar du
-✅ README me **images + badges + live demo button** add kar du
-✅ Resume ke liye **project description line** bana du
-
-Bas bolo 👍
